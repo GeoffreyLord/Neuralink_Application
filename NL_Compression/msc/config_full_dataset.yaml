@@ -1,0 +1,13 @@
+trainingDataMax: 0.0
+trainingDataMin: 0.0
+inputFunct: ""
+trainingDataSize: 153
+testingDataSize: 153
+numInputNodes: 10
+numNodesPerHiddenLayer: 15
+numHiddenLayers: 2
+numOutputNodes: 1
+numEpochs: 1000
+learningRate: 0.00001 # 0.00000000000000000000000005
+accuracyThreshold: 0.5 
+rateChangeBool: True 
