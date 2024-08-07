@@ -15,7 +15,7 @@ Running the line below will train the 211 parameter model for 10 epochs, test th
 **Usage:**
 ```python3 ../../../src_v2/DRGNFLY.py -c config.yaml -p Input-x...-NOut-x.csv -d datafile.csv -t -e```
 
-```-c: Configuration File with model attributes. Examples can be seen in msc/MSC_Equation_Models/pi*d``
+```-c: Configuration File with model attributes. Examples can be seen in msc/MSC_Equation_Models/pi*d```
 
 ```-p: Model Parameters File (If not provided application will generate after training a model)```
 
