@@ -4,8 +4,8 @@ inputFunct: ""
 trainingDataSize: 447
 testingDataSize: 447
 numInputNodes: 1
-numNodesPerHiddenLayer: 3
-numHiddenLayers: 2
+numNodesPerHiddenLayer: 2
+numHiddenLayers: 1
 numOutputNodes: 1
 numEpochs: 400
 learningRate: 0.000005 # 0.00000000000000000000000005

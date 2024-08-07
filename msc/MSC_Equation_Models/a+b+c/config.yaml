@@ -1,0 +1,13 @@
+trainingDataMax: 5.0
+trainingDataMin: -5.0
+inputFunct: "var_a + var_b + var_c"
+trainingDataSize: 150
+testingDataSize: 25
+numInputNodes: 3
+numNodesPerHiddenLayer: 10
+numHiddenLayers: 2
+numOutputNodes: 1
+numEpochs: 50 #This Should Eventually be determiend by the script
+learningRate: 0.00005 #This Should Eventually be determiend by the script
+accuracyThreshold: 0.1 
+rateChangeBool: True #this should eventually be removed when the learning rate is dynamic
